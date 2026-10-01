@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict><key>phrase</key><string>Ω</string><key>shortcut</key><string>;ohm</string></dict>
+	<dict><key>phrase</key><string>µ</string><key>shortcut</key><string>;mu</string></dict>
+	<dict><key>phrase</key><string>½</string><key>shortcut</key><string>;12</string></dict>
+	<dict><key>phrase</key><string>¼</string><key>shortcut</key><string>;14</string></dict>
+	<dict><key>phrase</key><string>¾</string><key>shortcut</key><string>;34</string></dict>
+	<dict><key>phrase</key><string>⅓</string><key>shortcut</key><string>;13</string></dict>
+	<dict><key>phrase</key><string>°</string><key>shortcut</key><string>;deg</string></dict>
+	<dict><key>phrase</key><string>°F</string><key>shortcut</key><string>;degf</string></dict>
+	<dict><key>phrase</key><string>°C</string><key>shortcut</key><string>;degc</string></dict>
+	<dict><key>phrase</key><string>±</string><key>shortcut</key><string>;pm</string></dict>
+	<dict><key>phrase</key><string>×</string><key>shortcut</key><string>;x</string></dict>
+	<dict><key>phrase</key><string>÷</string><key>shortcut</key><string>;div</string></dict>
+	<dict><key>phrase</key><string>≈</string><key>shortcut</key><string>;approx</string></dict>
+	<dict><key>phrase</key><string>≠</string><key>shortcut</key><string>;ne</string></dict>
+	<dict><key>phrase</key><string>≤</string><key>shortcut</key><string>;le</string></dict>
+	<dict><key>phrase</key><string>≥</string><key>shortcut</key><string>;ge</string></dict>
+	<dict><key>phrase</key><string>²</string><key>shortcut</key><string>;sq</string></dict>
+	<dict><key>phrase</key><string>³</string><key>shortcut</key><string>;cube</string></dict>
+	<dict><key>phrase</key><string>√</string><key>shortcut</key><string>;sqrt</string></dict>
+	<dict><key>phrase</key><string>π</string><key>shortcut</key><string>;pi</string></dict>
+	<dict><key>phrase</key><string>Δ</string><key>shortcut</key><string>;delta</string></dict>
+	<dict><key>phrase</key><string>→</string><key>shortcut</key><string>;-&gt;</string></dict>
+	<dict><key>phrase</key><string>←</string><key>shortcut</key><string>;&lt;-</string></dict>
+	<dict><key>phrase</key><string>✓</string><key>shortcut</key><string>;check</string></dict>
+	<dict><key>phrase</key><string>™</string><key>shortcut</key><string>;tm</string></dict>
+	<dict><key>phrase</key><string>©</string><key>shortcut</key><string>;c</string></dict>
+	<dict><key>phrase</key><string>👍</string><key>shortcut</key><string>;up</string></dict>
+	<dict><key>phrase</key><string>😂</string><key>shortcut</key><string>;lol</string></dict>
+	<dict><key>phrase</key><string>🙏</string><key>shortcut</key><string>;pray</string></dict>
+	<dict><key>phrase</key><string>😡</string><key>shortcut</key><string>;mad</string></dict>
+	<dict><key>phrase</key><string>🔥</string><key>shortcut</key><string>;fire</string></dict>
+	<dict><key>phrase</key><string>✅</string><key>shortcut</key><string>;done</string></dict>
+	<dict><key>phrase</key><string>🚀</string><key>shortcut</key><string>;rocket</string></dict>
+	<dict><key>phrase</key><string>🏊</string><key>shortcut</key><string>;swim</string></dict>
+</array>
+</plist>
