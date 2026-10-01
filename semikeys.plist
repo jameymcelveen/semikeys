@@ -36,5 +36,6 @@
 	<dict><key>phrase</key><string>✅</string><key>shortcut</key><string>;done</string></dict>
 	<dict><key>phrase</key><string>🚀</string><key>shortcut</key><string>;rocket</string></dict>
 	<dict><key>phrase</key><string>🏊</string><key>shortcut</key><string>;swim</string></dict>
+	<dict><key>phrase</key><string>¯\_(ツ)_/¯</string><key>shortcut</key><string>;shrug</string></dict>
 </array>
 </plist>

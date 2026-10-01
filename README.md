@@ -43,6 +43,7 @@ Type the shortcut, then a space or punctuation.
 | `;ge` | ≥ | | `;done` | ✅ |
 | | | | `;rocket` | 🚀 |
 | | | | `;swim` | 🏊 |
+| | | | `;shrug` | `¯\_(ツ)_/¯` |
 
 ## Make your own
 
